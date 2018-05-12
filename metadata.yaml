@@ -1,0 +1,31 @@
+_repo: Recollections-of-Forty-Years-in-the-House-Senate-and-CabinetAn-Autobiography._22036
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sherman, John
+    birthdate: 1823
+    deathdate: 1900
+    gutenberg_agent_id: '25051'
+    url: http://www.gutenberg.org/2009/agents/25051
+description: ''
+gutenberg_issued: '2007-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22036'
+  lccn: '68028647'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Statesmen -- United States -- Biography'
+- !lcc 'E660'
+- !lcsh 'Sherman, John, 1823-1900'
+- !lcsh 'United States -- Politics and government -- 19th century'
+title: 'Recollections of Forty Years in the House, Senate and Cabinet
+
+  An Autobiography.'
+url: http://www.gutenberg.org/ebooks/22036
